@@ -7,6 +7,6 @@
 	<link rel="stylesheet" href="">
 </head>
 <body>
-	<a href="/ci/index.php">Buka CI</a>
+	<a href="/ci">Buka CI</a>
 </body>
 </html>
