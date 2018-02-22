@@ -1,3 +1,3 @@
 <?php
-include "/ci/index.php"
+include "ci/index.php"
 ?>
