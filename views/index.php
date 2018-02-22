@@ -7,8 +7,6 @@
 	<link rel="stylesheet" href="">
 </head>
 <body>
-	<?php
-		echo "HEllow";
-	?>
+	<a href="/ci/index.php">Buka CI</a>
 </body>
 </html>
